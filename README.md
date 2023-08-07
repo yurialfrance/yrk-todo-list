@@ -6,6 +6,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run: / プロジェクトディレクトリ内で、以下のコマンドを実行できます：
 
+### `cd test`
+
+Must be in the `test` folder first / 最初に`test`フォルダーに存在する必要があります
+
 ### `npm start`
 
 Runs the app in the development mode.\
