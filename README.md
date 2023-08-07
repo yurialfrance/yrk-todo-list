@@ -22,22 +22,5 @@ You may also see any lint errors in the console. / アプリを開発モード�
 変更を保存すると、ページがリロードされます。\
 コンソールには lint エラーが表示されることもあります。
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information. / 対話型のウォッチモードでテストランナーを起動します。\
-詳細は[テストの実行](https://facebook.github.io/create-react-app/docs/running-tests)のセクションを参照してください。
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed! / アプリをプロダクション用に `build` フォルダにビルドします。\
-React をプロダクションモードで正しくバンドルし、最適なパフォーマンスを実現します。
-
-ビルドは縮小され、ファイル名にはハッシュが含まれます。\
-あなたのアプリはデプロイの準備ができています！
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information. / 詳細は[デプロイ](https://facebook.github.io/create-react-app/docs/deployment)のセクションを参照してください。
+### `Congratulations! You can run it now!`  
+`おめでとうございます！`  今すぐ実行できます!
